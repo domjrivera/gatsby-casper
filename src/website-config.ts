@@ -51,8 +51,8 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Cyber Lawyer Tech Cases By Domingo Rivera',
   description: 'Internet Law Cases By Domingo Rivera',
-  coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  coverImage: 'img/blog-cover.png',
+//  logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://www.cyberlawyer.tech',
   facebook: 'https://www.facebook.com/avmtech',

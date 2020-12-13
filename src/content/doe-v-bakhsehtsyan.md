@@ -2,7 +2,7 @@
 title: 'Doe v. Bakhsehtsyan, the litigation stalker case'
 author: [Domingo Rivera]
 tags: ['Cyber Law']
-image: 'img/janedoe.jpg'
+image: img/janedoe.jpg
 date: '2019-04-12T10:00:00.000Z'
 draft: false
 ---

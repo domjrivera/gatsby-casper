@@ -1,6 +1,6 @@
 ---
 title: 'Doe v. Bakhsehtsyan, the litigation stalker case'
-author: []
+author: [Another Author]
 tags: ['Cyber Law']
 image: img/janedoe.jpg
 date: '2019-04-12T10:00:00.000Z'

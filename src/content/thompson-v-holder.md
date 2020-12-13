@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thompson v. Holder'
-author: [Ghost]
+author: [Domingo Rivera]
 tags: ['Cyber Law']
 image: img/thompson.jpeg
 date: '2019-03-03T10:00:00.000Z'

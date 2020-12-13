@@ -1,6 +1,6 @@
 ---
 title: 'Zachary Chesser v. Federal Bureau of Investigation'
-author: [Another Author]
+author: [Domingo Rivera]
 tags: [Cyber Law]
 image: img/fbi.jpeg
 date: '2019-03-05T23:46:37.121Z'

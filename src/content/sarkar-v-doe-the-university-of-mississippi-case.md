@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sarkar v. Doe - The University of Mississippi Case'
-author: [Ghost]
+author: [Domingo Rivera]
 tags: ['Cyber Law']
 image: img/UMentrance.jpg
 date: '2019-03-08T15:11:55.000Z'

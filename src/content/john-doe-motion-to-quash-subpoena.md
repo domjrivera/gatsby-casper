@@ -1,6 +1,6 @@
 ---
 title: 'John Doe Motion To Quash Subpoena - The USAR Defamation Case'
-author: [Another Author]
+author: [Domingo Rivera]
 tags: [Cyber Law]
 image: img/sec.jpg
 date: '2019-03-06T23:46:37.121Z'

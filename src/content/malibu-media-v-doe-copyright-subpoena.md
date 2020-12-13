@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Malibu Media v Doe - Copyright Subpoena'
-author: [Ghost]
+author: [Domingo Rivera]
 tags: ['Cyber Law']
 image: img/malibu.jpeg
 date: '2019-03-18T07:03:47.149Z'
